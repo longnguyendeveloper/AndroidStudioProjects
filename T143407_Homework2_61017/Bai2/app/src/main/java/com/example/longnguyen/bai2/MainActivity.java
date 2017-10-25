@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this,("Vui lòng nhập số tự nhiên!"),Toast.LENGTH_SHORT).show();
                 }
 
-
             }
 
         });
